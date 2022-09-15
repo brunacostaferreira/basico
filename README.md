@@ -1,8 +1,8 @@
 # Programas Basicos Iniciantes
 ### Instalados:
-VSCode 
-Git
-Configurar o Git no VsCode -
-Executar no terminal: 
-git config –global user.name “Bruna Costa”
-git config –-global user.email “seuemail@hotmail.com”
+VSCode<br>
+Git<br>
+Configurar o Git no VsCode -<br>
+Executar no terminal: <br>
+git config –global user.name “Bruna Costa”<br>
+git config –-global user.email “seuemail@hotmail.com”<br>
